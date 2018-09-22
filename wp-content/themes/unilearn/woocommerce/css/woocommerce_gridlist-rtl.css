@@ -1,0 +1,42 @@
+.woo_panel .gridlist-toggle:not(:first-child) {
+    padding-right: 10px !important;
+	padding-left: 0;
+}
+
+.woo_panel .gridlist-toggle > a{
+    border-radius: 0 10px;
+}
+
+.woo_panel .gridlist-toggle > a + a {
+    margin-right: 5px;
+	margin-left: auto;
+}
+
+ul.products.list li.product {
+    padding-right: 0;
+	padding-left: 0;
+}
+
+ul.products.list li.product .pic > img {
+    margin-left: auto !important;
+	margin-right: auto;
+}
+
+ul.products.list li.product {
+    padding-right: 15px;
+	padding-left: 0;
+}
+
+ul.products.list li.product .unilearn_after_shop_loop_item_title_wrapper .price:not(:only-child) {
+    float: left;
+}
+
+ul.products.list li.product .post_media {
+    float: right;
+    margin-left: 30px;
+	margin-right: auto;
+}
+
+ul.products.list .unilearn_after_shop_loop_item_title_wrapper.clearfix:after {
+    clear: left;
+}

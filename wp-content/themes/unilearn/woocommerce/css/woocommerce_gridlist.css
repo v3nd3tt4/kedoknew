@@ -1,0 +1,91 @@
+.woo_panel .gridlist-toggle{
+    display: table-cell;
+    white-space: nowrap;
+}
+.woo_panel .gridlist-toggle{
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+}
+.woo_panel .gridlist-toggle:not(:first-child){
+    padding-left: 10px !important;
+}
+.woo_panel .gridlist-toggle > a{
+    width: 36px;
+    line-height: 36px;
+    background-color: #5f5f5f;
+    font-size: 14px;
+    text-align: center;
+    color: #fff;
+    border-radius: 10px 0;
+}
+.woo_panel .gridlist-toggle > a:hover{
+    background-color: #5f5f5f;    
+}
+.woo_panel .gridlist-toggle > a + a{
+    margin-left: 5px;
+}
+/* .woo_panel .gridlist-toggle + .woocommerce-ordering .select2-choice,
+.woo_panel .gridlist-toggle + .woocommerce-ordering .select2-arrow{
+    padding-top: 3px;
+    padding-bottom: 3px;
+} */
+ul.products.list li.product{
+	padding-left: 0;
+}
+ul.products.grid hr{
+    display: block;
+}
+ul.products.list li.product .pic > img{
+	width: auto !important;
+	float: none;
+    margin-bottom: auto;
+	-webkit-transition: all 0.3s ease !important;
+	transition: all 0.3s ease !important;
+    margin-right: auto !important;
+}
+ul.products.list li.product .pic:hover > img{
+	-webkit-transition: all 4s ease !important;
+	transition: all 4s ease !important;
+}
+ul.products.list li.product .star-rating{
+	margin-bottom: auto;
+}
+ul.products.list li.product .woo_product_post_title.posts_grid_post_title,
+ul.products.list li.product div[itemprop="description"],
+ul.products.list li.product .price{
+    width: auto;
+    float: none;	
+}
+ul.products.list li.product{
+	padding-left: 15px;
+}
+ul.products.list li.product .unilearn_after_shop_loop_item_title_wrapper .price:not(:only-child){
+	float: right;
+}
+ul.products.list li.product .post_media{
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 10px;
+}
+ul.products.list .unilearn_after_shop_loop_item_title_wrapper.clearfix:after{
+	clear: right;
+}
+ul.products.list li.product .unilearn_after_shop_loop_item_title_wrapper + .unilearn_after_shop_loop_item_wrapper{
+	margin-top: 14px;
+}
+ul.products.list li.product .woo_product_post_title.posts_grid_post_title{
+	padding-top: 0;
+	padding-bottom: 0;
+	font-size: 1.17em;
+	font-weight: 400;
+	line-height: 1.2;
+}
+ul.products.list li.product .woo_product_post_title.posts_grid_post_title:not(:last-child){
+	margin-bottom: 0.68376em;
+}
+ul.products.list hr:before{
+	display: block;
+}
+ul.products.list li.product:hover hr{
+	background-color: #f2f2f2;	
+}

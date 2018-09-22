@@ -1,0 +1,2776 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: UniLearn\n"
+"POT-Creation-Date: 2018-08-27 11:58+0300\n"
+"PO-Revision-Date: 2016-07-04 10:50+0300\n"
+"Last-Translator: \n"
+"Language-Team: Creative Web Solutions <support@creaws.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_attr__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: languages/unilearn/js\n"
+"X-Poedit-SearchPathExcluded-1: languages/unilearn/css\n"
+"X-Poedit-SearchPathExcluded-2: languages/unilearn/core/js\n"
+"X-Poedit-SearchPathExcluded-3: languages/unilearn/core/css\n"
+"X-Poedit-SearchPathExcluded-4: languages/unilearn/wpml/templates\n"
+"X-Poedit-SearchPathExcluded-5: languages/unilearn/woocommerce/js\n"
+"X-Poedit-SearchPathExcluded-6: languages/unilearn/woocommerce/css\n"
+"X-Poedit-SearchPathExcluded-7: languages/unilearn/plugins\n"
+"X-Poedit-SearchPathExcluded-8: fw/js\n"
+"X-Poedit-SearchPathExcluded-9: includes/core/assets\n"
+
+#: 404.php:16
+msgid "Sorry:&#40;"
+msgstr ""
+
+#: 404.php:19
+msgid "This page doesn't exist."
+msgstr ""
+
+#: comments.php:26
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:33 fw/sections.php:585
+#: vc/theme_shortcodes/cws_sc_vc_blog.php:82
+msgid "Comments"
+msgstr ""
+
+#: comments.php:46
+msgid "Submit"
+msgstr ""
+
+#: functions.php:81
+msgid "Unilearn Shortcodes"
+msgstr ""
+
+#: functions.php:91
+msgid "CWS Portfolio & Staff"
+msgstr ""
+
+#: functions.php:101
+msgid "CWS MegaMenu"
+msgstr ""
+
+#: functions.php:111
+msgid "CWS Demo Importer"
+msgstr ""
+
+#: functions.php:121
+msgid "WPBakery Visual Composer"
+msgstr ""
+
+#: functions.php:131
+msgid "Revolution Slider"
+msgstr ""
+
+#: functions.php:141 fw/sections.php:934 fw/sections.php:941
+msgid "LearnPress"
+msgstr ""
+
+#: functions.php:146
+msgid "Contact Form 7"
+msgstr ""
+
+#: functions.php:151
+msgid "WP Google Maps"
+msgstr ""
+
+#: functions.php:156 includes/widgets/unilearn_widget_twitter.php:167
+#: plugins/unilearn-shortcodes/unilearn-shortcodes.php:995
+#: vc/templates/cws_sc_twitter.php:97
+msgid "oAuth Twitter Feed for Developers"
+msgstr ""
+
+#: functions.php:269
+msgid ""
+" theme notice: Please insert your Item Purchase Code in Theme Options to get "
+"the latest theme updates!"
+msgstr ""
+
+#: functions.php:1249
+msgid "Next Page"
+msgstr ""
+
+#: functions.php:1250
+msgid "Previous Page"
+msgstr ""
+
+#: functions.php:1259
+msgid "Load More"
+msgstr ""
+
+#: functions.php:2056
+msgid "Page Left Sidebar"
+msgstr ""
+
+#: functions.php:2064
+msgid "Page Right Sidebar"
+msgstr ""
+
+#: functions.php:2072 fw/sections.php:223 fw/sections.php:231
+#: fw/sections.php:820
+msgid "Footer"
+msgstr ""
+
+#: functions.php:2310 functions.php:2323 fw/sections.php:297
+#: includes/modules/cws_breadcrumbs.php:4
+msgid "Home"
+msgstr ""
+
+#: functions.php:2311
+#, php-format
+msgid "Category \"%s\""
+msgstr ""
+
+#: functions.php:2312 includes/modules/cws_breadcrumbs.php:6
+#, php-format
+msgid "Search for \"%s\""
+msgstr ""
+
+#: functions.php:2313 includes/modules/cws_breadcrumbs.php:7
+#, php-format
+msgid "Archive by %s \"%s\""
+msgstr ""
+
+#: functions.php:2314 includes/modules/cws_breadcrumbs.php:8
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr ""
+
+#: functions.php:2315 includes/modules/cws_breadcrumbs.php:9
+#, php-format
+msgid "Articles Posted by %s"
+msgstr ""
+
+#: functions.php:2316 includes/modules/cws_breadcrumbs.php:10
+msgid "Error 404"
+msgstr ""
+
+#: functions.php:2319
+msgid "404 Page"
+msgstr ""
+
+#: functions.php:2321
+msgid "Search"
+msgstr ""
+
+#: functions.php:2589 learnpress/cws_lp_course.php:117
+msgid "All"
+msgstr ""
+
+#: functions.php:2682 plugins/cws-megamenu/cws-megamenu.php:53
+msgid "Title Must be Entered"
+msgstr ""
+
+#: fw/config.php:15 fw/config.php:16 fw/config.php:263
+msgid "Theme Options"
+msgstr ""
+
+#: fw/config.php:80 fw/config.php:97
+msgid "Import & Export options"
+msgstr ""
+
+#: fw/config.php:83 fw/config.php:129
+msgid "Save Changes"
+msgstr ""
+
+#: fw/config.php:117
+msgid "Import theme's data"
+msgstr ""
+
+#: fw/config.php:118
+msgid "Export current Theme Options"
+msgstr ""
+
+#: fw/config.php:130
+msgid "Reset all"
+msgstr ""
+
+#: fw/config.php:131
+msgid "Reset section"
+msgstr ""
+
+#: fw/config.php:159 fw/config.php:179
+msgid "Invalid nonce"
+msgstr ""
+
+#: fw/config.php:264
+msgid "CWS Theme Options."
+msgstr ""
+
+#: fw/config.php:292 fw/sections.php:15
+msgid "General"
+msgstr ""
+
+#: fw/pbfw.php:282
+msgid "Font Catalog"
+msgstr ""
+
+#: fw/pbfw.php:288
+msgid "Font Subsets"
+msgstr ""
+
+#: fw/pbfw.php:299
+msgid "Font Family"
+msgstr ""
+
+#: fw/pbfw.php:306
+msgid "Font Weight"
+msgstr ""
+
+#: fw/pbfw.php:318
+msgid "Font Scripts"
+msgstr ""
+
+#: fw/pbfw.php:335 includes/config/scg.php:48
+#: vc/theme_shortcodes/cws_sc_banner.php:59
+#: vc/theme_shortcodes/cws_sc_button.php:104
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:45
+#: vc/theme_shortcodes/cws_sc_icon.php:107
+#: vc/theme_shortcodes/cws_sc_msg_box.php:66
+#: vc/theme_shortcodes/cws_sc_twitter.php:38
+msgid "Font Color"
+msgstr ""
+
+#: fw/pbfw.php:341
+msgid "Font Size"
+msgstr ""
+
+#: fw/pbfw.php:347
+msgid "Line height"
+msgstr ""
+
+#: fw/pbfw.php:357
+msgid "Quick brown fox jumps over the lazy dog"
+msgstr ""
+
+#: fw/pbfw.php:392 fw/pbfw.php:396 fw/sections.php:407 includes/core/pb.php:190
+#: includes/core/pb.php:194
+msgid "From"
+msgstr ""
+
+#: fw/pbfw.php:392 fw/pbfw.php:396 includes/core/pb.php:190
+#: includes/core/pb.php:194
+msgid "till"
+msgstr ""
+
+#: fw/pbfw.php:472 fw/pbfw.php:485 includes/core/pb.php:266
+#: includes/core/pb.php:276
+msgid "Select"
+msgstr ""
+
+#: fw/pbfw.php:473 includes/core/pb.php:267
+msgid "Remove"
+msgstr ""
+
+#: fw/pbfw.php:547
+msgid "Ultra-Light 100"
+msgstr ""
+
+#: fw/pbfw.php:548
+msgid "Ultra-Light Italic 100"
+msgstr ""
+
+#: fw/pbfw.php:549
+msgid "Light 200"
+msgstr ""
+
+#: fw/pbfw.php:550
+msgid "Light Italic 200"
+msgstr ""
+
+#: fw/pbfw.php:551
+msgid "Book 300"
+msgstr ""
+
+#: fw/pbfw.php:552
+msgid "Book Italic 300"
+msgstr ""
+
+#: fw/pbfw.php:553
+msgid "Regular 400"
+msgstr ""
+
+#: fw/pbfw.php:554
+msgid "Italic 400"
+msgstr ""
+
+#: fw/pbfw.php:555
+msgid "Medium 500"
+msgstr ""
+
+#: fw/pbfw.php:556
+msgid "Medium Italic 500"
+msgstr ""
+
+#: fw/pbfw.php:557
+msgid "Semi-Bold 600"
+msgstr ""
+
+#: fw/pbfw.php:558
+msgid "Semi-Bols Italic 600"
+msgstr ""
+
+#: fw/pbfw.php:559
+msgid "Bold 700"
+msgstr ""
+
+#: fw/pbfw.php:560
+msgid "Bold Italic 700"
+msgstr ""
+
+#: fw/pbfw.php:561
+msgid "Extra-Bold 800"
+msgstr ""
+
+#: fw/pbfw.php:562
+msgid "Extra-Bold Italic 800"
+msgstr ""
+
+#: fw/pbfw.php:563
+msgid "Ultra-Bold 900"
+msgstr ""
+
+#: fw/pbfw.php:564
+msgid "Ultra-Bold Italic 900"
+msgstr ""
+
+#: fw/pbfw.php:576
+msgid "Latin"
+msgstr ""
+
+#: fw/pbfw.php:577
+msgid "Latin Extended"
+msgstr ""
+
+#: fw/pbfw.php:578
+msgid "Greek"
+msgstr ""
+
+#: fw/pbfw.php:579
+msgid "Greek Extended"
+msgstr ""
+
+#: fw/pbfw.php:580
+msgid "Vietnamese"
+msgstr ""
+
+#: fw/pbfw.php:581
+msgid "Hebrew"
+msgstr ""
+
+#: fw/pbfw.php:582
+msgid "Arabic"
+msgstr ""
+
+#: fw/pbfw.php:583
+msgid "Devanagari"
+msgstr ""
+
+#: fw/pbfw.php:584
+msgid "Cyrillic"
+msgstr ""
+
+#: fw/pbfw.php:585
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: fw/pbfw.php:586
+msgid "Khmer"
+msgstr ""
+
+#: fw/pbfw.php:587
+msgid "Tamil"
+msgstr ""
+
+#: fw/pbfw.php:588
+msgid "Thai"
+msgstr ""
+
+#: fw/pbfw.php:589
+msgid "Telugu"
+msgstr ""
+
+#: fw/pbfw.php:590
+msgid "Bengali"
+msgstr ""
+
+#: fw/pbfw.php:591
+msgid "Gujarati"
+msgstr ""
+
+#: fw/sections.php:7 fw/sections.php:759
+msgid "Header"
+msgstr ""
+
+#: fw/sections.php:18
+msgid "Page Title Spacings"
+msgstr ""
+
+#: fw/sections.php:21 fw/sections.php:91 vc/unilearn_vc_config.php:68
+msgid "Top"
+msgstr ""
+
+#: fw/sections.php:22 fw/sections.php:92
+msgid "left"
+msgstr ""
+
+#: fw/sections.php:23 fw/sections.php:84 fw/sections.php:93 fw/sections.php:123
+#: fw/sections.php:487 fw/sections.php:518 fw/sections.php:548
+#: fw/sections.php:906 fw/sections.php:949 includes/config/metaboxes.php:105
+#: vc/theme_shortcodes/cws_sc_banner.php:36
+#: vc/theme_shortcodes/cws_sc_button.php:54
+#: vc/theme_shortcodes/cws_sc_button.php:75
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:210
+#: vc/theme_shortcodes/cws_sc_icon.php:79
+#: vc/theme_shortcodes/cws_sc_vc_blog.php:19
+#: vc/theme_shortcodes/cws_sc_vc_lp_course_posts_grid.php:17
+#: vc/theme_shortcodes/cws_sc_vc_posts_grid.php:25
+msgid "Right"
+msgstr ""
+
+#: fw/sections.php:24 fw/sections.php:94 vc/unilearn_vc_config.php:69
+msgid "Bottom"
+msgstr ""
+
+#: fw/sections.php:28
+msgid "Header Image"
+msgstr ""
+
+#: fw/sections.php:32
+msgid "Header Background Color"
+msgstr ""
+
+#: fw/sections.php:39
+msgid "Top Bar Text and Breadcrumbs Color"
+msgstr ""
+
+#: fw/sections.php:46
+msgid "Header Overlays Slider"
+msgstr ""
+
+#: fw/sections.php:55 fw/sections.php:58
+msgid "Logo"
+msgstr ""
+
+#: fw/sections.php:63
+msgid "High-Resolution logo"
+msgstr ""
+
+#: fw/sections.php:70
+msgid "Dimensions"
+msgstr ""
+
+#: fw/sections.php:73 includes/config/scg.php:25
+msgid "Width"
+msgstr ""
+
+#: fw/sections.php:74 includes/config/scg.php:30
+msgid "Height"
+msgstr ""
+
+#: fw/sections.php:78
+msgid "Position"
+msgstr ""
+
+#: fw/sections.php:82 fw/sections.php:121 fw/sections.php:486
+#: fw/sections.php:517 fw/sections.php:547 fw/sections.php:905
+#: fw/sections.php:948 includes/config/metaboxes.php:104
+#: vc/theme_shortcodes/cws_sc_banner.php:37
+#: vc/theme_shortcodes/cws_sc_button.php:53
+#: vc/theme_shortcodes/cws_sc_button.php:76
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:209
+#: vc/theme_shortcodes/cws_sc_icon.php:78
+#: vc/theme_shortcodes/cws_sc_vc_blog.php:18
+#: vc/theme_shortcodes/cws_sc_vc_lp_course_posts_grid.php:16
+#: vc/theme_shortcodes/cws_sc_vc_posts_grid.php:24
+msgid "Left"
+msgstr ""
+
+#: fw/sections.php:83 fw/sections.php:122
+#: vc/theme_shortcodes/cws_sc_button.php:55
+#: vc/theme_shortcodes/cws_sc_icon.php:80
+#: vc/theme_shortcodes/cws_sc_vc_blog.php:20
+#: vc/theme_shortcodes/cws_sc_vc_lp_course_posts_grid.php:18
+#: vc/theme_shortcodes/cws_sc_vc_posts_grid.php:26
+msgid "Center"
+msgstr ""
+
+#: fw/sections.php:88
+msgid "Spacings"
+msgstr ""
+
+#: fw/sections.php:98
+msgid "Mobile Logo"
+msgstr ""
+
+#: fw/sections.php:103
+msgid "High-Resolution Mobile logo"
+msgstr ""
+
+#: fw/sections.php:114 fw/sections.php:736
+msgid "Menu"
+msgstr ""
+
+#: fw/sections.php:117
+msgid "Menu Position"
+msgstr ""
+
+#: fw/sections.php:127
+msgid "Customize Menu Colors & Opacity"
+msgstr ""
+
+#: fw/sections.php:133 fw/sections.php:396
+msgid "Opacity"
+msgstr ""
+
+#: fw/sections.php:135 includes/config/metaboxes.php:92
+msgid "Header Opacity"
+msgstr ""
+
+#: fw/sections.php:136
+msgid "This option will apply the transparent header when set to \"0\"."
+msgstr ""
+
+#: fw/sections.php:144 fw/sections.php:146 fw/sections.php:243
+#: includes/config/scg.php:53 vc/theme_shortcodes/cws_sc_banner.php:48
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:34
+msgid "Background Color"
+msgstr ""
+
+#: fw/sections.php:147
+msgid "This color is applied to header section including top bar."
+msgstr ""
+
+#: fw/sections.php:155 fw/sections.php:157
+msgid "Override Font Color"
+msgstr ""
+
+#: fw/sections.php:158
+msgid ""
+"This color is applied to main menu items only, submenus will use the color "
+"which is set in Typography section.<br /> This option is very useful when "
+"transparent menu is set."
+msgstr ""
+
+#: fw/sections.php:166
+msgid "Apply sticky menu"
+msgstr ""
+
+#: fw/sections.php:172
+msgid "Sticky Logo"
+msgstr ""
+
+#: fw/sections.php:178
+msgid "High-Resolution Sticky logo"
+msgstr ""
+
+#: fw/sections.php:185
+msgid "Show sandwich menu"
+msgstr ""
+
+#: fw/sections.php:194
+msgid "TopBar"
+msgstr ""
+
+#: fw/sections.php:197 fw/sections.php:819
+msgid "Top Panel"
+msgstr ""
+
+#: fw/sections.php:204 fw/sections.php:782
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:114
+msgid "Content"
+msgstr ""
+
+#: fw/sections.php:206
+msgid "Indent Adjusting"
+msgstr ""
+
+#: fw/sections.php:207
+msgid "Adjust Indents by multiple spaces.<br /> Line breaks are working too."
+msgstr ""
+
+#: fw/sections.php:213
+msgid "Transparent"
+msgstr ""
+
+#: fw/sections.php:234
+msgid "Footer's widget area"
+msgstr ""
+
+#: fw/sections.php:236
+msgid "Footer area"
+msgstr ""
+
+#: fw/sections.php:237
+msgid ""
+"This options will set the default Footer widget area, unless you override it "
+"on each page"
+msgstr ""
+
+#: fw/sections.php:250
+msgid "Font color"
+msgstr ""
+
+#: fw/sections.php:257
+msgid "Title color"
+msgstr ""
+
+#: fw/sections.php:264
+msgid "Copyrights content"
+msgstr ""
+
+#: fw/sections.php:268
+msgid "Copyrights&#169;2016: UniLearn – Education and Courses WordPress Theme"
+msgstr ""
+
+#: fw/sections.php:271
+msgid "Copyrights Background Color"
+msgstr ""
+
+#: fw/sections.php:278
+msgid "Copyrights Font color"
+msgstr ""
+
+#: fw/sections.php:290
+msgid "Pages"
+msgstr ""
+
+#: fw/sections.php:301
+msgid "Slider Settings"
+msgstr ""
+
+#: fw/sections.php:304 fw/sections.php:383 fw/sections.php:489
+#: fw/sections.php:520 fw/sections.php:550 fw/sections.php:907
+#: fw/sections.php:951 includes/config/metaboxes.php:107
+#: includes/widgets/unilearn_widget_cws_staff.php:35
+#: includes/widgets/unilearn_widget_latest_posts.php:35
+#: vc/theme_shortcodes/cws_sc_button.php:52
+#: vc/theme_shortcodes/cws_sc_icon.php:77
+#: vc/theme_shortcodes/cws_sc_vc_blog.php:79
+#: vc/theme_shortcodes/cws_sc_vc_blog.php:104
+#: vc/theme_shortcodes/cws_sc_vc_lp_course_posts_grid.php:69
+#: vc/theme_shortcodes/cws_sc_vc_posts_grid.php:122
+#: vc/theme_shortcodes/cws_sc_vc_posts_grid.php:155
+#: vc/theme_shortcodes/cws_sc_vc_posts_grid.php:164
+#: vc/theme_widgets/cws_widget_latest_posts.php:20
+#: vc/theme_widgets/cws_widget_latest_posts.php:82
+#: vc/theme_widgets/cws_widget_staff.php:20
+#: vc/theme_widgets/cws_widget_staff.php:86 vc/unilearn_vc_config.php:67
+msgid "None"
+msgstr ""
+
+#: fw/sections.php:305
+msgid "Image Slider"
+msgstr ""
+
+#: fw/sections.php:306
+msgid "Video Slider"
+msgstr ""
+
+#: fw/sections.php:307 fw/sections.php:470
+msgid "Static image"
+msgstr ""
+
+#: fw/sections.php:311 fw/sections.php:324 fw/sections.php:328
+msgid "Slider"
+msgstr ""
+
+#: fw/sections.php:317
+msgid "Video Slider Settings"
+msgstr ""
+
+#: fw/sections.php:335
+msgid "Set Video height"
+msgstr ""
+
+#: fw/sections.php:339
+msgid "Video height"
+msgstr ""
+
+#: fw/sections.php:345
+msgid "Video type"
+msgstr ""
+
+#: fw/sections.php:348
+msgid "Self-hosted"
+msgstr ""
+
+#: fw/sections.php:349
+msgid "Youtube clip"
+msgstr ""
+
+#: fw/sections.php:350
+msgid "Vimeo clip"
+msgstr ""
+
+#: fw/sections.php:354
+msgid "Add video"
+msgstr ""
+
+#: fw/sections.php:358
+msgid "Youtube video code"
+msgstr ""
+
+#: fw/sections.php:363
+msgid "Vimeo embed url"
+msgstr ""
+
+#: fw/sections.php:370
+msgid "Add pattern"
+msgstr ""
+
+#: fw/sections.php:374
+msgid "Pattern image"
+msgstr ""
+
+#: fw/sections.php:379
+msgid "Overlay type"
+msgstr ""
+
+#: fw/sections.php:384 includes/config/metaboxes.php:66
+#: vc/theme_shortcodes/cws_sc_milestone.php:44
+msgid "Color"
+msgstr ""
+
+#: fw/sections.php:385
+msgid "Gradient"
+msgstr ""
+
+#: fw/sections.php:389
+msgid "Overlay Color"
+msgstr ""
+
+#: fw/sections.php:397
+msgid "In percents"
+msgstr ""
+
+#: fw/sections.php:401
+msgid "Gradient settings"
+msgstr ""
+
+#: fw/sections.php:413
+msgid "To"
+msgstr ""
+
+#: fw/sections.php:418 fw/sections.php:431 fw/sections.php:440
+msgid "Gradient type"
+msgstr ""
+
+#: fw/sections.php:421
+msgid "Linear"
+msgstr ""
+
+#: fw/sections.php:422
+msgid "Radial"
+msgstr ""
+
+#: fw/sections.php:427
+msgid "Angle"
+msgstr ""
+
+#: fw/sections.php:435 vc/theme_shortcodes/cws_sc_divider.php:16
+#: vc/theme_shortcodes/cws_sc_icon.php:39
+msgid "Simple"
+msgstr ""
+
+#: fw/sections.php:436
+msgid "Extended"
+msgstr ""
+
+#: fw/sections.php:444
+msgid "Ellipse"
+msgstr ""
+
+#: fw/sections.php:445
+msgid "Circle"
+msgstr ""
+
+#: fw/sections.php:450
+msgid "Size keyword"
+msgstr ""
+
+#: fw/sections.php:453
+msgid "Closest side"
+msgstr ""
+
+#: fw/sections.php:454
+msgid "Farthest side"
+msgstr ""
+
+#: fw/sections.php:455
+msgid "Closest corner"
+msgstr ""
+
+#: fw/sections.php:456
+msgid "Farthest corner"
+msgstr ""
+
+#: fw/sections.php:462 vc/theme_shortcodes/cws_sc_button.php:30
+#: vc/theme_shortcodes/cws_sc_icon.php:60
+msgid "Size"
+msgstr ""
+
+#: fw/sections.php:463
+msgid "Two space separated percent values, for example (60% 55%)"
+msgstr ""
+
+#: fw/sections.php:475
+msgid "Select an image"
+msgstr ""
+
+#: fw/sections.php:482 fw/sections.php:513 fw/sections.php:543
+#: fw/sections.php:901 fw/sections.php:944 includes/config/metaboxes.php:99
+msgid "Sidebar Position"
+msgstr ""
+
+#: fw/sections.php:488 fw/sections.php:519 fw/sections.php:549
+#: fw/sections.php:821 fw/sections.php:950
+msgid "Both"
+msgstr ""
+
+#: fw/sections.php:493 fw/sections.php:524 fw/sections.php:554
+#: fw/sections.php:670 fw/sections.php:955
+msgid "Sidebar"
+msgstr ""
+
+#: fw/sections.php:499 fw/sections.php:530 fw/sections.php:560
+#: fw/sections.php:961
+msgid "Right sidebar"
+msgstr ""
+
+#: fw/sections.php:510 includes/modules/cws_breadcrumbs.php:185
+msgid "Page"
+msgstr ""
+
+#: fw/sections.php:540
+msgid "Blog"
+msgstr ""
+
+#: fw/sections.php:566
+msgid "Blog Layout"
+msgstr ""
+
+#: fw/sections.php:570 fw/sections.php:602
+msgid "Wide"
+msgstr ""
+
+#: fw/sections.php:571 vc/theme_shortcodes/cws_sc_icon.php:66
+msgid "Medium"
+msgstr ""
+
+#: fw/sections.php:572 vc/theme_shortcodes/cws_sc_button.php:36
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:184
+#: vc/theme_shortcodes/cws_sc_icon.php:64
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:99
+#: vc/theme_shortcodes/cws_sc_services.php:89
+msgid "Small"
+msgstr ""
+
+#: fw/sections.php:573 fw/sections.php:603 fw/sections.php:636
+msgid "2 Cols"
+msgstr ""
+
+#: fw/sections.php:574 fw/sections.php:604
+msgid "3 Cols"
+msgstr ""
+
+#: fw/sections.php:578
+msgid "Hide Post Meta"
+msgstr ""
+
+#: fw/sections.php:579
+msgid "Properties specified here were hidden in post grid by default"
+msgstr ""
+
+#: fw/sections.php:583 vc/theme_shortcodes/cws_sc_vc_blog.php:80
+msgid "Date"
+msgstr ""
+
+#: fw/sections.php:584 vc/theme_shortcodes/cws_sc_vc_blog.php:81
+msgid "Post Info"
+msgstr ""
+
+#: fw/sections.php:586 includes/modules/cws_search.php:186
+#: vc/theme_shortcodes/cws_sc_vc_blog.php:83
+msgid "Read More"
+msgstr ""
+
+#: fw/sections.php:587 vc/theme_shortcodes/cws_sc_vc_blog.php:84
+msgid "Terms"
+msgstr ""
+
+#: fw/sections.php:595
+msgid "Portfolio"
+msgstr ""
+
+#: fw/sections.php:598 fw/sections.php:631 fw/sections.php:680
+#: vc/theme_shortcodes/cws_sc_vc_blog.php:50
+#: vc/theme_shortcodes/cws_sc_vc_lp_course_posts_grid.php:56
+#: vc/theme_shortcodes/cws_sc_vc_posts_grid.php:86
+msgid "Layout"
+msgstr ""
+
+#: fw/sections.php:605
+msgid "4 Cols"
+msgstr ""
+
+#: fw/sections.php:609
+msgid "Show Meta Data"
+msgstr ""
+
+#: fw/sections.php:613 includes/config/metaboxes.php:167
+#: plugins/cws-megamenu/cws-megamenu.php:49
+#: vc/theme_shortcodes/cws_sc_banner.php:18
+#: vc/theme_shortcodes/cws_sc_button.php:15
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:13
+#: vc/theme_shortcodes/cws_sc_icon.php:30
+#: vc/theme_shortcodes/cws_sc_milestone.php:26
+#: vc/theme_shortcodes/cws_sc_msg_box.php:24
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:13
+#: vc/theme_shortcodes/cws_sc_progress_bar.php:13
+#: vc/theme_shortcodes/cws_sc_services.php:13
+#: vc/theme_shortcodes/cws_sc_vc_blog.php:9
+#: vc/theme_shortcodes/cws_sc_vc_lp_course_posts_grid.php:7
+#: vc/theme_shortcodes/cws_sc_vc_posts_grid.php:15
+#: vc/theme_shortcodes/cws_sc_vc_posts_grid.php:123
+#: vc/theme_widgets/cws_widget_latest_posts.php:7
+#: vc/theme_widgets/cws_widget_social.php:13
+#: vc/theme_widgets/cws_widget_staff.php:7
+#: vc/theme_widgets/cws_widget_text.php:13
+#: vc/theme_widgets/cws_widget_twitter.php:13
+msgid "Title"
+msgstr ""
+
+#: fw/sections.php:614 vc/theme_shortcodes/cws_sc_vc_posts_grid.php:124
+msgid "Excerpt"
+msgstr ""
+
+#: fw/sections.php:615 includes/widgets/unilearn_widget_latest_posts.php:36
+#: includes/widgets/unilearn_widget_latest_posts.php:42
+#: includes/widgets/unilearn_widget_latest_posts.php:72
+#: vc/theme_shortcodes/cws_sc_vc_posts_grid.php:125
+#: vc/theme_widgets/cws_widget_latest_posts.php:21
+#: vc/theme_widgets/cws_widget_latest_posts.php:36
+#: vc/theme_widgets/cws_widget_latest_posts.php:83
+msgid "Categories"
+msgstr ""
+
+#: fw/sections.php:620 fw/sections.php:650
+msgid "Slug"
+msgstr ""
+
+#: fw/sections.php:628
+msgid "Staff"
+msgstr ""
+
+#: fw/sections.php:635
+msgid "1 Col"
+msgstr ""
+
+#: fw/sections.php:640
+msgid "Hide Meta Data"
+msgstr ""
+
+#: fw/sections.php:644 includes/widgets/unilearn_widget_cws_staff.php:36
+#: includes/widgets/unilearn_widget_cws_staff.php:42
+#: includes/widgets/unilearn_widget_cws_staff.php:72
+#: vc/theme_shortcodes/cws_sc_vc_posts_grid.php:156
+#: vc/theme_widgets/cws_widget_staff.php:21
+#: vc/theme_widgets/cws_widget_staff.php:38
+#: vc/theme_widgets/cws_widget_staff.php:87
+msgid "Departments"
+msgstr ""
+
+#: fw/sections.php:645 includes/widgets/unilearn_widget_cws_staff.php:37
+#: includes/widgets/unilearn_widget_cws_staff.php:50
+#: includes/widgets/unilearn_widget_cws_staff.php:73
+#: vc/theme_shortcodes/cws_sc_vc_posts_grid.php:157
+#: vc/theme_widgets/cws_widget_staff.php:22
+#: vc/theme_widgets/cws_widget_staff.php:58
+#: vc/theme_widgets/cws_widget_staff.php:88
+msgid "Positions"
+msgstr ""
+
+#: fw/sections.php:659
+msgid "Sidebars"
+msgstr ""
+
+#: fw/sections.php:664
+msgid "Sidebar generator"
+msgstr ""
+
+#: fw/sections.php:665
+msgid "Add new sidebar"
+msgstr ""
+
+#: fw/sections.php:687
+msgid "Theme Colors"
+msgstr ""
+
+#: fw/sections.php:690
+msgid "Main Color"
+msgstr ""
+
+#: fw/sections.php:697 vc/theme_shortcodes/cws_sc_services.php:38
+msgid "Secondary Color"
+msgstr ""
+
+#: fw/sections.php:704
+msgid "Additional Color"
+msgstr ""
+
+#: fw/sections.php:711
+msgid "Apply Boxed Layout"
+msgstr ""
+
+#: fw/sections.php:717
+msgid "Background Settings"
+msgstr ""
+
+#: fw/sections.php:721
+msgid "Click this link to customize your background settings"
+msgstr ""
+
+#: fw/sections.php:729
+msgid "Typography"
+msgstr ""
+
+#: fw/sections.php:739
+msgid "Menu Font"
+msgstr ""
+
+#: fw/sections.php:762
+msgid "Header's Font"
+msgstr ""
+
+#: fw/sections.php:785
+msgid "Content Font"
+msgstr ""
+
+#: fw/sections.php:806 fw/sections.php:813
+msgid "Socials"
+msgstr ""
+
+#: fw/sections.php:817
+msgid "Icon Location"
+msgstr ""
+
+#: fw/sections.php:827
+msgid "Social Networks"
+msgstr ""
+
+#: fw/sections.php:828 includes/config/metaboxes.php:45
+msgid "Add new social network"
+msgstr ""
+
+#: fw/sections.php:833 includes/config/metaboxes.php:50
+msgid "Social account title"
+msgstr ""
+
+#: fw/sections.php:839 includes/config/metaboxes.php:56
+msgid "Select the icon for this social contact"
+msgstr ""
+
+#: fw/sections.php:843 includes/config/metaboxes.php:60
+msgid "Url to your account"
+msgstr ""
+
+#: fw/sections.php:853
+msgid "Help & Maintenance"
+msgstr ""
+
+#: fw/sections.php:860
+msgid "Maintenance"
+msgstr ""
+
+#: fw/sections.php:863 fw/sections.php:865
+msgid "Item Purchase Code"
+msgstr ""
+
+#: fw/sections.php:866
+msgid ""
+"Fill in this field with your Item Purchase Code in order to get the demo "
+"content and further theme updates.<br/> Please note, this code is applied to "
+"the theme only, it will not register Revolution Slider or any other plugins."
+msgstr ""
+
+#: fw/sections.php:872
+msgid "Help"
+msgstr ""
+
+#: fw/sections.php:876
+msgid "Online Tutorial"
+msgstr ""
+
+#: fw/sections.php:876
+msgid "Video Tutorial"
+msgstr ""
+
+#: fw/sections.php:886
+msgid "WooCommerce"
+msgstr ""
+
+#: fw/sections.php:893
+msgid "Woocommerce"
+msgstr ""
+
+#: fw/sections.php:896
+msgid "Show WooCommerce Cart"
+msgstr ""
+
+#: fw/sections.php:911 includes/config/metaboxes.php:111
+msgid "Select a sidebar"
+msgstr ""
+
+#: fw/sections.php:917
+msgid "Products per page"
+msgstr ""
+
+#: fw/sections.php:922
+msgid "Related products per page"
+msgstr ""
+
+#: image.php:81
+msgid "Previous Image"
+msgstr ""
+
+#: image.php:82
+msgid "Nexts Image"
+msgstr ""
+
+#: image.php:82
+msgid "Next Image"
+msgstr ""
+
+#: includes/config/metaboxes.php:39
+msgid "Clickable title"
+msgstr ""
+
+#: includes/config/metaboxes.php:44
+msgid "Social networks"
+msgstr ""
+
+#: includes/config/metaboxes.php:67
+msgid "Grid item background color"
+msgstr ""
+
+#: includes/config/metaboxes.php:83
+msgid "Customize Header"
+msgstr ""
+
+#: includes/config/metaboxes.php:87
+msgid "Header Covers Slider"
+msgstr ""
+
+#: includes/config/metaboxes.php:103 vc/theme_shortcodes/cws_sc_divider.php:15
+#: vc/theme_shortcodes/cws_sc_vc_blog.php:54
+#: vc/theme_shortcodes/cws_sc_vc_posts_grid.php:68
+#: vc/theme_shortcodes/cws_sc_vc_posts_grid.php:77
+msgid "Default"
+msgstr ""
+
+#: includes/config/metaboxes.php:106
+msgid "Double"
+msgstr ""
+
+#: includes/config/metaboxes.php:118
+msgid "Select right sidebar"
+msgstr ""
+
+#: includes/config/metaboxes.php:125
+msgid "Customize footer"
+msgstr ""
+
+#: includes/config/metaboxes.php:129
+msgid "Footer Widgets area"
+msgstr ""
+
+#: includes/config/metaboxes.php:136
+msgid "Add Image Slider"
+msgstr ""
+
+#: includes/config/metaboxes.php:140
+msgid "Slider shortcode"
+msgstr ""
+
+#: includes/config/metaboxes.php:157
+msgid "Show related projects"
+msgstr ""
+
+#: includes/config/metaboxes.php:163
+msgid "Related projects options"
+msgstr ""
+
+#: includes/config/metaboxes.php:168
+msgid "Related projects"
+msgstr ""
+
+#: includes/config/metaboxes.php:172 includes/config/scg.php:93
+msgid "Columns"
+msgstr ""
+
+#: includes/config/metaboxes.php:174
+msgid "one"
+msgstr ""
+
+#: includes/config/metaboxes.php:175
+msgid "two"
+msgstr ""
+
+#: includes/config/metaboxes.php:176
+msgid "three"
+msgstr ""
+
+#: includes/config/metaboxes.php:177
+msgid "four"
+msgstr ""
+
+#: includes/config/metaboxes.php:182
+msgid "Items count"
+msgstr ""
+
+#: includes/config/metaboxes.php:186
+msgid "Enable hover effect"
+msgstr ""
+
+#: includes/config/metaboxes.php:192 includes/config/metaboxes.php:252
+msgid "Link options"
+msgstr ""
+
+#: includes/config/metaboxes.php:196
+msgid "Custom url"
+msgstr ""
+
+#: includes/config/metaboxes.php:201
+msgid "Open in fancybox"
+msgstr ""
+
+#: includes/config/metaboxes.php:218
+msgid "Gallery options"
+msgstr ""
+
+#: includes/config/metaboxes.php:221
+msgid "Gallery"
+msgstr ""
+
+#: includes/config/metaboxes.php:229
+msgid "Video options"
+msgstr ""
+
+#: includes/config/metaboxes.php:232
+msgid "Url to video file"
+msgstr ""
+
+#: includes/config/metaboxes.php:240
+msgid "Audio options"
+msgstr ""
+
+#: includes/config/metaboxes.php:243
+msgid "Self-hosted/soundclod audio url."
+msgstr ""
+
+#: includes/config/metaboxes.php:244
+msgid "Ex.: /wp-content/uploads/audio.mp3 or http://soundcloud.com/..."
+msgstr ""
+
+#: includes/config/metaboxes.php:255 includes/config/scg.php:20
+#: vc/theme_shortcodes/cws_sc_banner.php:12
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:72
+#: vc/theme_shortcodes/cws_sc_services.php:62
+msgid "Url"
+msgstr ""
+
+#: includes/config/metaboxes.php:263
+msgid "Quote options"
+msgstr ""
+
+#: includes/config/metaboxes.php:266
+#: vc/theme_shortcodes/cws_sc_testimonial.php:13
+msgid "Quote"
+msgstr ""
+
+#: includes/config/metaboxes.php:267
+msgid "Enter the quote"
+msgstr ""
+
+#: includes/config/metaboxes.php:272
+#: vc/theme_shortcodes/cws_sc_testimonial.php:23
+msgid "Author Name"
+msgstr ""
+
+#: includes/config/metaboxes.php:276
+#: vc/theme_shortcodes/cws_sc_testimonial.php:28
+msgid "Author Status"
+msgstr ""
+
+#: includes/config/scg.php:16
+msgid "Embed audio/video file"
+msgstr ""
+
+#: includes/config/scg.php:21
+msgid "Embed url"
+msgstr ""
+
+#: includes/config/scg.php:26
+msgid "Max width in pixels"
+msgstr ""
+
+#: includes/config/scg.php:31
+msgid "Max height in pixels"
+msgstr ""
+
+#: includes/config/scg.php:37
+msgid "CWS Dropcap"
+msgstr ""
+
+#: includes/config/scg.php:42
+msgid "CWS Mark Selection"
+msgstr ""
+
+#: includes/config/scg.php:60
+msgid "CWS List Selection"
+msgstr ""
+
+#: includes/config/scg.php:65
+msgid "List Style"
+msgstr ""
+
+#: includes/config/scg.php:68
+msgid "Checkmarks"
+msgstr ""
+
+#: includes/config/scg.php:69
+msgid "Dots"
+msgstr ""
+
+#: includes/config/scg.php:70
+msgid "Custom Icon"
+msgstr ""
+
+#: includes/config/scg.php:74 vc/theme_shortcodes/cws_sc_banner.php:28
+#: vc/theme_shortcodes/cws_sc_button.php:66
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:23
+#: vc/theme_shortcodes/cws_sc_icon.php:14
+#: vc/theme_shortcodes/cws_sc_milestone.php:12
+#: vc/theme_shortcodes/cws_sc_msg_box.php:47
+#: vc/theme_shortcodes/cws_sc_services.php:18
+#: vc/theme_shortcodes/cws_sc_twitter.php:14
+msgid "Icon"
+msgstr ""
+
+#: includes/config/scg.php:82
+msgid "CWS Shortcode Carousel"
+msgstr ""
+
+#: includes/config/scg.php:86
+msgid "Some content here"
+msgstr ""
+
+#: includes/config/scg.php:89
+msgid "Carousel title"
+msgstr ""
+
+#: includes/config/scg.php:96
+msgid "One"
+msgstr ""
+
+#: includes/config/scg.php:97
+msgid "Two"
+msgstr ""
+
+#: includes/config/scg.php:98
+msgid "Three"
+msgstr ""
+
+#: includes/config/scg.php:99
+msgid "Four"
+msgstr ""
+
+#: includes/core/bfi_thumb.php:116
+msgid ""
+"The server does not have ImageMagick or GD installed and/or enabled! Any of "
+"these libraries are required for WordPress to be able to resize images. "
+"Please contact your server administrator to enable this before continuing."
+msgstr ""
+
+#: includes/core/bfi_thumb.php:228
+msgid "Image rotate failed."
+msgstr ""
+
+#: includes/core/bfi_thumb.php:249
+msgid "Image opacity change failed."
+msgstr ""
+
+#: includes/core/bfi_thumb.php:325
+msgid "Image color change failed."
+msgstr ""
+
+#: includes/core/bfi_thumb.php:341
+msgid "Image grayscale failed."
+msgstr ""
+
+#: includes/core/bfi_thumb.php:357
+msgid "Image negate failed."
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:393
+#: includes/core/class-tgm-plugin-activation.php:912
+#: includes/core/class-tgm-plugin-activation.php:2618
+#: includes/core/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:394
+#: includes/core/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:1019
+#: includes/core/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:2634
+#: vc/theme_shortcodes/cws_sc_divider.php:12
+#: vc/theme_shortcodes/cws_sc_icon.php:35
+#: vc/theme_shortcodes/cws_sc_msg_box.php:12
+msgid "Type"
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:3594
+#: includes/core/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:3594
+#: includes/core/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: includes/core/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/modules/cws_blog.php:858
+msgid "Read More <i class='fa fa-angle-right'></i>"
+msgstr ""
+
+#: includes/modules/cws_breadcrumbs.php:5
+#, php-format
+msgid "Archive by Category \"%s\""
+msgstr ""
+
+#: includes/modules/cws_comments.php:61
+msgid "&#x20;at&#x20;"
+msgstr ""
+
+#: includes/modules/cws_comments.php:65
+msgid "Edit Comment"
+msgstr ""
+
+#: includes/modules/cws_comments.php:75
+msgid "Reply"
+msgstr ""
+
+#: includes/modules/cws_comments.php:108
+msgid "Older Comments"
+msgstr ""
+
+#: includes/modules/cws_comments.php:109
+msgid "Newer Comments"
+msgstr ""
+
+#: includes/modules/cws_portfolio.php:291
+#: includes/modules/cws_portfolio.php:374
+msgid ",&#x20;"
+msgstr ""
+
+#: includes/modules/cws_search.php:110
+msgid "Read More "
+msgstr ""
+
+#: includes/widgets/unilearn_widget_cws_staff.php:10
+#: includes/widgets/unilearn_widget_latest_posts.php:10
+#: includes/widgets/unilearn_widget_social.php:10
+#: includes/widgets/unilearn_widget_text.php:10
+#: includes/widgets/unilearn_widget_twitter.php:10
+msgid "Widget Title"
+msgstr ""
+
+#: includes/widgets/unilearn_widget_cws_staff.php:15
+#: includes/widgets/unilearn_widget_latest_posts.php:15
+#: includes/widgets/unilearn_widget_social.php:15
+#: includes/widgets/unilearn_widget_text.php:15
+#: includes/widgets/unilearn_widget_twitter.php:15
+#: vc/theme_widgets/cws_widget_latest_posts.php:12
+#: vc/theme_widgets/cws_widget_social.php:18
+#: vc/theme_widgets/cws_widget_staff.php:12
+#: vc/theme_widgets/cws_widget_text.php:18
+#: vc/theme_widgets/cws_widget_twitter.php:18
+msgid "Widget Icon"
+msgstr ""
+
+#: includes/widgets/unilearn_widget_cws_staff.php:21
+#: includes/widgets/unilearn_widget_latest_posts.php:21
+#: includes/widgets/unilearn_widget_social.php:21
+#: includes/widgets/unilearn_widget_text.php:21
+#: includes/widgets/unilearn_widget_twitter.php:21
+#: vc/theme_widgets/cws_widget_latest_posts.php:98
+#: vc/theme_widgets/cws_widget_social.php:24
+#: vc/theme_widgets/cws_widget_staff.php:102
+#: vc/theme_widgets/cws_widget_text.php:29
+#: vc/theme_widgets/cws_widget_twitter.php:36
+msgid "Add Custom Color"
+msgstr ""
+
+#: includes/widgets/unilearn_widget_cws_staff.php:27
+#: includes/widgets/unilearn_widget_latest_posts.php:27
+#: includes/widgets/unilearn_widget_social.php:27
+#: includes/widgets/unilearn_widget_text.php:27
+#: includes/widgets/unilearn_widget_twitter.php:27
+#: vc/theme_shortcodes/cws_sc_button.php:93
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:46
+#: vc/theme_widgets/cws_widget_latest_posts.php:102
+#: vc/theme_widgets/cws_widget_social.php:28
+#: vc/theme_widgets/cws_widget_staff.php:106
+#: vc/theme_widgets/cws_widget_text.php:33
+#: vc/theme_widgets/cws_widget_twitter.php:40
+msgid "Custom Color"
+msgstr ""
+
+#: includes/widgets/unilearn_widget_cws_staff.php:32
+#: includes/widgets/unilearn_widget_latest_posts.php:32
+#: vc/theme_widgets/cws_widget_latest_posts.php:17
+#: vc/theme_widgets/cws_widget_staff.php:17
+msgid "Filter By"
+msgstr ""
+
+#: includes/widgets/unilearn_widget_cws_staff.php:38
+msgid "Departments & Positions"
+msgstr ""
+
+#: includes/widgets/unilearn_widget_cws_staff.php:59
+#: includes/widgets/unilearn_widget_latest_posts.php:59
+#: includes/widgets/unilearn_widget_twitter.php:33
+msgid "Post count"
+msgstr ""
+
+#: includes/widgets/unilearn_widget_cws_staff.php:64
+#: includes/widgets/unilearn_widget_latest_posts.php:64
+#: includes/widgets/unilearn_widget_twitter.php:38
+#: vc/theme_shortcodes/cws_sc_twitter.php:26
+#: vc/theme_widgets/cws_widget_latest_posts.php:72
+#: vc/theme_widgets/cws_widget_staff.php:76
+#: vc/theme_widgets/cws_widget_twitter.php:29
+msgid "Posts per slide"
+msgstr ""
+
+#: includes/widgets/unilearn_widget_cws_staff.php:68
+#: includes/widgets/unilearn_widget_latest_posts.php:68
+#: vc/theme_shortcodes/cws_sc_vc_blog.php:72
+#: vc/theme_shortcodes/cws_sc_vc_posts_grid.php:147
+#: vc/theme_widgets/cws_widget_latest_posts.php:79
+#: vc/theme_widgets/cws_widget_staff.php:83
+msgid "Hide"
+msgstr ""
+
+#: includes/widgets/unilearn_widget_cws_staff.php:74
+#: includes/widgets/unilearn_widget_latest_posts.php:74
+#: vc/theme_shortcodes/cws_sc_services.php:111
+#: vc/theme_widgets/cws_widget_latest_posts.php:85
+#: vc/theme_widgets/cws_widget_staff.php:89
+msgid "Description"
+msgstr ""
+
+#: includes/widgets/unilearn_widget_cws_staff.php:79
+#: includes/widgets/unilearn_widget_latest_posts.php:79
+#: vc/theme_widgets/cws_widget_latest_posts.php:91
+#: vc/theme_widgets/cws_widget_staff.php:95
+msgid "Count of chars from post content"
+msgstr ""
+
+#: includes/widgets/unilearn_widget_cws_staff.php:86
+msgid "Unilearn Our Teachers Widget"
+msgstr ""
+
+#: includes/widgets/unilearn_widget_cws_staff.php:87
+msgid "Unilearn Our Teachers"
+msgstr ""
+
+#: includes/widgets/unilearn_widget_latest_posts.php:37
+#: includes/widgets/unilearn_widget_latest_posts.php:50
+#: includes/widgets/unilearn_widget_latest_posts.php:73
+#: vc/theme_widgets/cws_widget_latest_posts.php:22
+#: vc/theme_widgets/cws_widget_latest_posts.php:54
+#: vc/theme_widgets/cws_widget_latest_posts.php:84
+msgid "Tags"
+msgstr ""
+
+#: includes/widgets/unilearn_widget_latest_posts.php:38
+msgid "Categories & Tags"
+msgstr ""
+
+#: includes/widgets/unilearn_widget_latest_posts.php:86
+msgid "Unilearn Latest Posts Widget"
+msgstr ""
+
+#: includes/widgets/unilearn_widget_latest_posts.php:87
+msgid "Unilearn Latest Posts"
+msgstr ""
+
+#: includes/widgets/unilearn_widget_social.php:35
+msgid "Unilearn Social Widget"
+msgstr ""
+
+#: includes/widgets/unilearn_widget_social.php:36
+msgid "Unilearn Social"
+msgstr ""
+
+#: includes/widgets/unilearn_widget_text.php:32
+#: vc/theme_widgets/cws_widget_text.php:23
+msgid "Widget Content"
+msgstr ""
+
+#: includes/widgets/unilearn_widget_text.php:40
+msgid "Unilearn Text Widget"
+msgstr ""
+
+#: includes/widgets/unilearn_widget_text.php:41
+msgid "Unilearn Text"
+msgstr ""
+
+#: includes/widgets/unilearn_widget_twitter.php:45
+msgid "Unilearn Twitter Widget"
+msgstr ""
+
+#: includes/widgets/unilearn_widget_twitter.php:46
+msgid "Unilearn Twitter"
+msgstr ""
+
+#: includes/widgets/unilearn_widget_twitter.php:120
+#: plugins/unilearn-shortcodes/unilearn-shortcodes.php:947
+#: vc/templates/cws_sc_twitter.php:49
+msgid "Twitter applyed with error"
+msgstr ""
+
+#: includes/widgets/unilearn_widget_twitter.php:167
+#: plugins/unilearn-shortcodes/unilearn-shortcodes.php:995
+#: vc/templates/cws_sc_twitter.php:97
+msgid "Plugin not installed"
+msgstr ""
+
+#: includes/widgets/unilearn_widget_twitter.php:167
+#: plugins/unilearn-shortcodes/unilearn-shortcodes.php:995
+#: vc/templates/cws_sc_twitter.php:97
+msgid "Please install and activate required plugin "
+msgstr ""
+
+#: learnpress/global/before-main-content.php:60
+msgid "LearnPress <strong>Checkout</strong> page is not set up. "
+msgstr ""
+
+#: learnpress/global/before-main-content.php:63
+msgid "Please contact administrator for setting up this page."
+msgstr ""
+
+#: learnpress/global/before-main-content.php:65
+#, php-format
+msgid ""
+"Please <a href=\\\"%s\\\" target=\\\"_blank\\\">setup</a> it so users can "
+"purchase courses."
+msgstr ""
+
+#: learnpress/lpinit.php:129
+msgid "Specific Color"
+msgstr ""
+
+#: learnpress/lpinit.php:421
+msgid "Quiz Sidebar"
+msgstr ""
+
+#: plugins/cws-megamenu/cws-megamenu.php:50
+msgid ""
+"Will be shown as column title and used as an opener for column content on "
+"mobile"
+msgstr ""
+
+#: plugins/cws-megamenu/cws-megamenu.php:72
+#: plugins/cws-megamenu/cws-megamenu.php:74
+msgid "Megamenu Items"
+msgstr ""
+
+#: plugins/cws-megamenu/cws-megamenu.php:75
+msgid "Megamenu Item"
+msgstr ""
+
+#: plugins/cws-megamenu/cws-megamenu.php:76
+msgid "Add New"
+msgstr ""
+
+#: plugins/cws-megamenu/cws-megamenu.php:77
+msgid "Add New Megamenu Item"
+msgstr ""
+
+#: plugins/cws-megamenu/cws-megamenu.php:78
+msgid "Edit Megamenu Item"
+msgstr ""
+
+#: plugins/cws-megamenu/cws-megamenu.php:79
+msgid "New Megamenu Item"
+msgstr ""
+
+#: plugins/cws-megamenu/cws-megamenu.php:80
+msgid "View Megamenu Item"
+msgstr ""
+
+#: plugins/cws-megamenu/cws-megamenu.php:81
+msgid "Search Megamenu Items"
+msgstr ""
+
+#: plugins/cws-megamenu/cws-megamenu.php:82
+msgid "No items found"
+msgstr ""
+
+#: plugins/cws-megamenu/cws-megamenu.php:83
+msgid "No items found in Trash"
+msgstr ""
+
+#: plugins/cws-megamenu/cws-megamenu.php:84
+msgid "All Megamenu Items"
+msgstr ""
+
+#: plugins/cws-megamenu/cws-megamenu.php:86
+msgid ""
+"Post, which you can add to menu in menu panel and it's content will be shown "
+"as megamenu item"
+msgstr ""
+
+#: search.php:54
+msgid "No search Results"
+msgstr ""
+
+#: search.php:54
+msgid "There are no posts matching your query"
+msgstr ""
+
+#: top_panel.php:62
+msgid "View your shopping cart"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banner.php:4
+msgid "CWS Banner"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banner.php:23
+msgid "Offer"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banner.php:33
+#: vc/theme_shortcodes/cws_sc_button.php:72
+msgid "Icon Position"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banner.php:43
+#: vc/theme_shortcodes/cws_sc_banner.php:50
+#: vc/theme_shortcodes/cws_sc_banner.php:61
+#: vc/theme_shortcodes/cws_sc_banner.php:72
+#: vc/theme_shortcodes/cws_sc_banner.php:82
+#: vc/theme_shortcodes/cws_sc_banner.php:89
+#: vc/theme_shortcodes/cws_sc_banner.php:99
+#: vc/theme_shortcodes/cws_sc_banner.php:114
+#: vc/theme_shortcodes/cws_sc_banner.php:128
+#: vc/theme_shortcodes/cws_sc_button.php:32
+#: vc/theme_shortcodes/cws_sc_button.php:44
+#: vc/theme_shortcodes/cws_sc_button.php:50
+#: vc/theme_shortcodes/cws_sc_button.php:61
+#: vc/theme_shortcodes/cws_sc_button.php:82
+#: vc/theme_shortcodes/cws_sc_button.php:88
+#: vc/theme_shortcodes/cws_sc_button.php:95
+#: vc/theme_shortcodes/cws_sc_button.php:106
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:29
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:36
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:47
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:58
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:68
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:75
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:85
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:100
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:114
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:134
+#: vc/theme_shortcodes/cws_sc_icon.php:37
+#: vc/theme_shortcodes/cws_sc_icon.php:48
+#: vc/theme_shortcodes/cws_sc_icon.php:62
+#: vc/theme_shortcodes/cws_sc_icon.php:75
+#: vc/theme_shortcodes/cws_sc_icon.php:91
+#: vc/theme_shortcodes/cws_sc_icon.php:98
+#: vc/theme_shortcodes/cws_sc_icon.php:109
+#: vc/theme_shortcodes/cws_sc_twitter.php:33
+#: vc/theme_shortcodes/cws_sc_twitter.php:40
+#: vc/theme_shortcodes/cws_sc_twitter.php:50
+#: vc/theme_shortcodes/cws_sc_twitter.php:57
+#: vc/theme_shortcodes/cws_sc_twitter.php:68
+#: vc/theme_shortcodes/cws_sc_twitter.php:79
+msgid "Styling"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banner.php:44
+#: vc/theme_shortcodes/cws_sc_button.php:89
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:30
+#: vc/theme_shortcodes/cws_sc_divider.php:44
+#: vc/theme_shortcodes/cws_sc_icon.php:92
+#: vc/theme_shortcodes/cws_sc_services.php:24
+msgid "Customize Colors"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banner.php:70
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:56
+msgid "Icon Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banner.php:83
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:69
+msgid "Use Background Image"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banner.php:87
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:73
+msgid "Background Image"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banner.php:97
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:83
+msgid "Background Image Size"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banner.php:105
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:91
+msgid "Auto"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banner.php:106
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:92
+msgid "Cover"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banner.php:107
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:93
+msgid "Contain"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banner.php:112
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:98
+msgid "Background Image Repeat"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banner.php:120
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:106
+msgid "No Repeat"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banner.php:121
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:107
+msgid "Repeat"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banner.php:126
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:112
+msgid "Background Image Position"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banner.php:134
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:120
+msgid "Left Top"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banner.php:135
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:121
+msgid "Top Center"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banner.php:136
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:122
+msgid "Top Right"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banner.php:137
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:123
+msgid "Left Center"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banner.php:138
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:124
+msgid "Center Center"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banner.php:139
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:125
+msgid "Right Center"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banner.php:140
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:126
+msgid "Left Bottom"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banner.php:141
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:127
+msgid "Bottom Center"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banner.php:142
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:128
+msgid "Right Bottom"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banner.php:147
+#: vc/theme_shortcodes/cws_sc_button.php:115
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:215
+#: vc/theme_shortcodes/cws_sc_divider.php:78
+#: vc/theme_shortcodes/cws_sc_icon.php:118
+#: vc/theme_shortcodes/cws_sc_milestone.php:54
+#: vc/theme_shortcodes/cws_sc_msg_box.php:76
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:119
+#: vc/theme_shortcodes/cws_sc_progress_bar.php:41
+#: vc/theme_shortcodes/cws_sc_services.php:104
+#: vc/theme_shortcodes/cws_sc_spacing.php:18
+#: vc/theme_shortcodes/cws_sc_testimonial.php:33
+#: vc/theme_shortcodes/cws_sc_twitter.php:88
+#: vc/theme_shortcodes/cws_sc_vc_blog.php:140
+#: vc/theme_shortcodes/cws_sc_vc_lp_course_posts_grid.php:105
+#: vc/theme_shortcodes/cws_sc_vc_posts_grid.php:207
+#: vc/theme_widgets/cws_widget_latest_posts.php:111
+#: vc/theme_widgets/cws_widget_social.php:37
+#: vc/theme_widgets/cws_widget_staff.php:115
+#: vc/theme_widgets/cws_widget_text.php:42
+#: vc/theme_widgets/cws_widget_twitter.php:49
+msgid "Extra class name"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_banner.php:148
+#: vc/theme_shortcodes/cws_sc_button.php:116
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:216
+#: vc/theme_shortcodes/cws_sc_divider.php:79
+#: vc/theme_shortcodes/cws_sc_icon.php:119
+#: vc/theme_shortcodes/cws_sc_milestone.php:55
+#: vc/theme_shortcodes/cws_sc_msg_box.php:77
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:120
+#: vc/theme_shortcodes/cws_sc_progress_bar.php:42
+#: vc/theme_shortcodes/cws_sc_services.php:105
+#: vc/theme_shortcodes/cws_sc_spacing.php:19
+#: vc/theme_shortcodes/cws_sc_testimonial.php:34
+#: vc/theme_shortcodes/cws_sc_twitter.php:89
+#: vc/theme_shortcodes/cws_sc_vc_blog.php:141
+#: vc/theme_shortcodes/cws_sc_vc_lp_course_posts_grid.php:106
+#: vc/theme_shortcodes/cws_sc_vc_posts_grid.php:208
+#: vc/theme_widgets/cws_widget_latest_posts.php:112
+#: vc/theme_widgets/cws_widget_social.php:38
+#: vc/theme_widgets/cws_widget_staff.php:116
+#: vc/theme_widgets/cws_widget_text.php:43
+#: vc/theme_widgets/cws_widget_twitter.php:50
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_button.php:6
+msgid "CWS Button"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_button.php:20
+#: vc/theme_shortcodes/cws_sc_embed.php:13
+#: vc/theme_shortcodes/cws_sc_icon.php:20
+msgid "Link"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_button.php:26
+#: vc/theme_shortcodes/cws_sc_icon.php:26
+msgid "Open in New Tab"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_button.php:34
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:182
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:97
+#: vc/theme_shortcodes/cws_sc_services.php:87
+msgid "Regular"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_button.php:35
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:183
+#: vc/theme_shortcodes/cws_sc_icon.php:65
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:98
+#: vc/theme_shortcodes/cws_sc_services.php:88
+msgid "Mini"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_button.php:37
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:185
+#: vc/theme_shortcodes/cws_sc_icon.php:67
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:100
+#: vc/theme_shortcodes/cws_sc_services.php:90
+msgid "Large"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_button.php:42
+msgid "Left/Right Padding"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_button.php:48
+#: vc/theme_shortcodes/cws_sc_icon.php:73
+msgid "Aligning"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_button.php:62
+msgid "Full Width"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_button.php:83
+#: vc/theme_shortcodes/cws_sc_icon.php:41
+msgid "Alternative"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:4
+msgid "CWS Call To Action"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:18
+#: vc/theme_shortcodes/cws_sc_msg_box.php:30
+msgid "Text"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:135
+msgid "Color Over Image"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:140
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:57
+#: vc/theme_shortcodes/cws_sc_services.php:49
+msgid "Add Button"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:144
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:62
+#: vc/theme_shortcodes/cws_sc_services.php:53
+msgid "Button Text"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:146
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:156
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:165
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:176
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:192
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:203
+msgid "Button Settings"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:154
+msgid "Button Url"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:170
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:86
+#: vc/theme_shortcodes/cws_sc_services.php:76
+msgid "Open Link in New Tab"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:174
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:90
+#: vc/theme_shortcodes/cws_sc_services.php:80
+msgid "Button Size"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:190
+msgid "Button Icon"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_call_to_action.php:201
+msgid "Button Icon Position"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_divider.php:4
+msgid "CWS Divider"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_divider.php:17
+msgid "Thin"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_divider.php:18
+msgid "Short"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_divider.php:19
+msgid "Short Simple"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_divider.php:20
+msgid "Short Thin"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_divider.php:25
+msgid "Margin Top"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_divider.php:26
+#: vc/theme_shortcodes/cws_sc_divider.php:33
+msgid "in pixels"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_divider.php:32
+msgid "Margin Bottom"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_divider.php:48
+msgid "First Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_divider.php:58
+msgid "Second Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_divider.php:68
+msgid "Third Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_embed.php:4
+msgid "CWS Embed"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_embed.php:18
+msgid "Width in pixels"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_embed.php:23
+msgid "Height in pixels"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_icon.php:4
+msgid "CWS Icon"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_icon.php:40
+msgid "Bordered"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_icon.php:46
+msgid "Shape"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_icon.php:54
+msgid "Square"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_icon.php:55
+msgid "Round"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_icon.php:68
+msgid "Extra Large"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_icon.php:86
+msgid "Add Hover"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_icon.php:96
+#: vc/theme_shortcodes/cws_sc_msg_box.php:56
+#: vc/theme_shortcodes/cws_sc_progress_bar.php:31
+msgid "Fill Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_milestone.php:4
+msgid "CWS Milestone"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_milestone.php:17
+msgid "Number"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_milestone.php:18
+#: vc/theme_shortcodes/cws_sc_milestone.php:32
+msgid "Integer"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_milestone.php:31
+msgid "Speed"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_milestone.php:40
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:42
+#: vc/theme_shortcodes/cws_sc_progress_bar.php:27
+msgid "Use Custom Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_msg_box.php:4
+msgid "CWS Message Box"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_msg_box.php:15
+msgid "Success"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_msg_box.php:16
+msgid "Warning"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_msg_box.php:17
+msgid "Error"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_msg_box.php:18
+msgid "Informational"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_msg_box.php:37
+msgid "Closable"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_msg_box.php:43
+msgid "Customize"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:4
+msgid "CWS Pricing Plan"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:18
+msgid "Currency"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:23
+msgid "Price"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:24
+msgid "Split integer and decimal part by dot symbol"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:31
+msgid "Price description"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:37
+msgid "Highlighted"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_pricing_plan.php:110
+#: vc/theme_shortcodes/cws_sc_services.php:100
+msgid "Make Button Full Width"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_progress_bar.php:4
+msgid "CWS Progress Bar"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_progress_bar.php:18
+msgid "Progress"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_progress_bar.php:19
+msgid "In Percents"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_services.php:4
+msgid "CWS Services Column"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_services.php:28
+msgid "Primary Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_spacing.php:4
+msgid "CWS Spacing"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_spacing.php:12
+msgid "Spacing"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_testimonial.php:4
+msgid "CWS Testimonial"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_testimonial.php:18
+msgid "Thumbnail"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_twitter.php:6
+msgid "CWS Twitter"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_twitter.php:20
+#: vc/theme_widgets/cws_widget_twitter.php:23
+msgid "Post Count"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_twitter.php:34
+msgid "Use Custom Font Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_twitter.php:51
+msgid "Customize Divider"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_twitter.php:55
+msgid "Divider First Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_twitter.php:66
+msgid "Divider Second Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_twitter.php:77
+msgid "Divider Third Color"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_vc_blog.php:15
+#: vc/theme_shortcodes/cws_sc_vc_lp_course_posts_grid.php:13
+#: vc/theme_shortcodes/cws_sc_vc_posts_grid.php:21
+msgid "Title Alignment"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_vc_blog.php:25
+#: vc/theme_shortcodes/cws_sc_vc_lp_course_posts_grid.php:30
+#: vc/theme_shortcodes/cws_sc_vc_posts_grid.php:38
+msgid "Display Style"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_vc_blog.php:28
+#: vc/theme_shortcodes/cws_sc_vc_lp_course_posts_grid.php:33
+#: vc/theme_shortcodes/cws_sc_vc_posts_grid.php:41
+msgid "Grid"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_vc_blog.php:29
+#: vc/theme_shortcodes/cws_sc_vc_lp_course_posts_grid.php:35
+#: vc/theme_shortcodes/cws_sc_vc_posts_grid.php:43
+msgid "Carousel"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_vc_blog.php:34
+#: vc/theme_shortcodes/cws_sc_vc_lp_course_posts_grid.php:40
+#: vc/theme_shortcodes/cws_sc_vc_posts_grid.php:48
+msgid "Items to display"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_vc_blog.php:40
+#: vc/theme_shortcodes/cws_sc_vc_lp_course_posts_grid.php:46
+#: vc/theme_shortcodes/cws_sc_vc_posts_grid.php:54
+msgid "Items per Page"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_vc_blog.php:55
+msgid "Blog Large"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_vc_blog.php:56
+msgid "Blog Medium"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_vc_blog.php:57
+msgid "Blog Small"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_vc_blog.php:58
+#: vc/theme_shortcodes/cws_sc_vc_lp_course_posts_grid.php:61
+#: vc/theme_shortcodes/cws_sc_vc_posts_grid.php:70
+#: vc/theme_shortcodes/cws_sc_vc_posts_grid.php:79
+msgid "Two Columns"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_vc_blog.php:59
+#: vc/theme_shortcodes/cws_sc_vc_lp_course_posts_grid.php:62
+#: vc/theme_shortcodes/cws_sc_vc_posts_grid.php:71
+msgid "Three Columns"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_vc_blog.php:66
+#: vc/theme_shortcodes/cws_sc_vc_posts_grid.php:108
+#: vc/theme_shortcodes/cws_sc_vc_posts_grid.php:141
+msgid "Customize Output"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_vc_blog.php:93
+#: vc/theme_widgets/cws_widget_latest_posts.php:90
+#: vc/theme_widgets/cws_widget_staff.php:94
+msgid "Chars Count"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_vc_blog.php:112
+#: vc/theme_shortcodes/cws_sc_vc_lp_course_posts_grid.php:77
+#: vc/theme_shortcodes/cws_sc_vc_posts_grid.php:172
+msgid "Filter by"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_vc_blog.php:147
+msgid "CWS Blog"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_vc_lp_course_posts_grid.php:25
+msgid "Open in a new tab"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_vc_lp_course_posts_grid.php:34
+#: vc/theme_shortcodes/cws_sc_vc_posts_grid.php:42
+msgid "Grid with Filter"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_vc_lp_course_posts_grid.php:60
+#: vc/theme_shortcodes/cws_sc_vc_posts_grid.php:69
+#: vc/theme_shortcodes/cws_sc_vc_posts_grid.php:78
+msgid "One Column"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_vc_lp_course_posts_grid.php:63
+#: vc/theme_shortcodes/cws_sc_vc_posts_grid.php:72
+msgid "Four Columns"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_vc_lp_course_posts_grid.php:112
+msgid "CWS Courses Grid"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_vc_posts_grid.php:31
+msgid "Post Type"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_vc_posts_grid.php:88
+#: vc/theme_shortcodes/cws_sc_vc_posts_grid.php:102
+#: vc/theme_shortcodes/cws_sc_vc_posts_grid.php:116
+#: vc/theme_shortcodes/cws_sc_vc_posts_grid.php:135
+#: vc/theme_shortcodes/cws_sc_vc_posts_grid.php:149
+#: vc/theme_shortcodes/cws_sc_vc_posts_grid.php:174
+#: vc/theme_shortcodes/cws_sc_vc_posts_grid.php:196
+msgid " Options"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_vc_posts_grid.php:114
+msgid "Show"
+msgstr ""
+
+#: vc/theme_shortcodes/cws_sc_vc_posts_grid.php:213
+msgid "CWS Posts Grid"
+msgstr ""
+
+#: vc/theme_widgets/cws_widget_latest_posts.php:23
+msgid "Categories and Tags"
+msgstr ""
+
+#: vc/theme_widgets/cws_widget_latest_posts.php:66
+#: vc/theme_widgets/cws_widget_staff.php:70
+msgid "Posts to Show"
+msgstr ""
+
+#: vc/theme_widgets/cws_widget_latest_posts.php:118
+msgid "CWS Widget Latest Posts"
+msgstr ""
+
+#: vc/theme_widgets/cws_widget_social.php:4
+msgid "CWS Widget Social"
+msgstr ""
+
+#: vc/theme_widgets/cws_widget_staff.php:23
+msgid "Departments and Positions"
+msgstr ""
+
+#: vc/theme_widgets/cws_widget_staff.php:122
+msgid "CWS Widget CWS Staff"
+msgstr ""
+
+#: vc/theme_widgets/cws_widget_text.php:4
+msgid "CWS Widget Text"
+msgstr ""
+
+#: vc/theme_widgets/cws_widget_twitter.php:4
+msgid "CWS Widget Twitter"
+msgstr ""
+
+#: vc/unilearn_vc_config.php:70
+msgid "Top and Bottom"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:70
+msgid "Awaiting product image"
+msgstr ""

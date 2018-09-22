@@ -1,0 +1,6 @@
+#page > .unilearn_layout_container{
+    direction: ltr;
+}
+#page > .unilearn_layout_container > *{
+    direction: rtl;
+}
